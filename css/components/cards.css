@@ -1,0 +1,34 @@
+.card-container {
+  display: flex;
+  justify-content: space-around;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+  height: 300px;
+  box-shadow: 0 0 15px rgba(0,0,0, 0.4);
+  border-radius: 20px;
+}
+
+#brasileiro-2019 {
+  background-image: url('https://s2.glbimg.com/AUYvmv41olV2AntKEkUJRwy0fQk=/0x0:2953x1965/924x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2019/2/A/lz8H5WR7q0x3j5J2Osrw/50.jpg');
+  background-size: cover;
+  width: 300px;
+  height: 200px;
+}
+
+#libertadores-2019 {
+  background-image: url('https://www.conmebol.com/sites/default/files/flamnego_1.jpg');
+  background-size: cover;
+  width: 300px;
+  height: 200px;
+}
+
+#brasileiro-2020 {
+  background-image: url('https://amazonasatual.com.br/wp-content/uploads/2021/02/Flamengo-Campeao-by-Marcello-Zambrana-Agif-Folhapress.jpeg');
+  background-size: cover;
+  width: 300px;
+  height: 200px;
+}
